@@ -1,0 +1,7 @@
+C:\Users\СкоропадИг\source\repos\LogInLogOut\LogInLogOut\bin\Debug\LogInLogOut.exe.config
+C:\Users\СкоропадИг\source\repos\LogInLogOut\LogInLogOut\bin\Debug\LogInLogOut.exe
+C:\Users\СкоропадИг\source\repos\LogInLogOut\LogInLogOut\bin\Debug\LogInLogOut.pdb
+C:\Users\СкоропадИг\source\repos\LogInLogOut\LogInLogOut\obj\Debug\LogInLogOut.csprojAssemblyReference.cache
+C:\Users\СкоропадИг\source\repos\LogInLogOut\LogInLogOut\obj\Debug\LogInLogOut.csproj.CoreCompileInputs.cache
+C:\Users\СкоропадИг\source\repos\LogInLogOut\LogInLogOut\obj\Debug\LogInLogOut.exe
+C:\Users\СкоропадИг\source\repos\LogInLogOut\LogInLogOut\obj\Debug\LogInLogOut.pdb
