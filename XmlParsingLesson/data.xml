@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cities>
+  <city>
+    <id type ="Guid">eef918fe-fa36-4a87-91d7-0d8672321077</id>
+    <name>Караганда</name>
+    <latitude>57,8</latitude>
+    <longitude>24,3</longitude>
+  </city>
+  
+  <city>
+    <id type ="int">1</id>
+    <name>Алматы</name>
+    <latitude>15,86</latitude>
+    <longitude>44,1897</longitude>
+  </city>
+  
+  <city>
+    <id type ="Guid">5857aea6-4b6d-4a09-bdbb-d6f5482722a8</id>
+    <name>Астана</name>
+    <latitude>98,789</latitude>
+    <longitude>12,667</longitude>
+  </city>
+</cities>

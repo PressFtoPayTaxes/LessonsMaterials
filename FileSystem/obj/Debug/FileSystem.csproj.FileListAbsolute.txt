@@ -1,0 +1,7 @@
+C:\Users\СкоропадИг.CORP\source\repos\FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+C:\Users\СкоропадИг.CORP\source\repos\FileSystem\FileSystem\bin\Debug\FileSystem.exe
+C:\Users\СкоропадИг.CORP\source\repos\FileSystem\FileSystem\bin\Debug\FileSystem.pdb
+C:\Users\СкоропадИг.CORP\source\repos\FileSystem\FileSystem\obj\Debug\FileSystem.csprojAssemblyReference.cache
+C:\Users\СкоропадИг.CORP\source\repos\FileSystem\FileSystem\obj\Debug\FileSystem.csproj.CoreCompileInputs.cache
+C:\Users\СкоропадИг.CORP\source\repos\FileSystem\FileSystem\obj\Debug\FileSystem.exe
+C:\Users\СкоропадИг.CORP\source\repos\FileSystem\FileSystem\obj\Debug\FileSystem.pdb
