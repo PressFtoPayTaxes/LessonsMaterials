@@ -1,0 +1,12 @@
+C:\Users\СкоропадИг.CORP\source\repos\HarryPotterAPI\HarryPotterAPI\bin\Debug\HarryPotterAPI.exe.config
+C:\Users\СкоропадИг.CORP\source\repos\HarryPotterAPI\HarryPotterAPI\bin\Debug\HarryPotterAPI.exe
+C:\Users\СкоропадИг.CORP\source\repos\HarryPotterAPI\HarryPotterAPI\bin\Debug\HarryPotterAPI.pdb
+C:\Users\СкоропадИг.CORP\source\repos\HarryPotterAPI\HarryPotterAPI\bin\Debug\DotNetXmlHttpRequest.dll
+C:\Users\СкоропадИг.CORP\source\repos\HarryPotterAPI\HarryPotterAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\СкоропадИг.CORP\source\repos\HarryPotterAPI\HarryPotterAPI\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\СкоропадИг.CORP\source\repos\HarryPotterAPI\HarryPotterAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\СкоропадИг.CORP\source\repos\HarryPotterAPI\HarryPotterAPI\obj\Debug\HarryPotterAPI.csprojAssemblyReference.cache
+C:\Users\СкоропадИг.CORP\source\repos\HarryPotterAPI\HarryPotterAPI\obj\Debug\HarryPotterAPI.csproj.CoreCompileInputs.cache
+C:\Users\СкоропадИг.CORP\source\repos\HarryPotterAPI\HarryPotterAPI\obj\Debug\HarryPotterAPI.csproj.CopyComplete
+C:\Users\СкоропадИг.CORP\source\repos\HarryPotterAPI\HarryPotterAPI\obj\Debug\HarryPotterAPI.exe
+C:\Users\СкоропадИг.CORP\source\repos\HarryPotterAPI\HarryPotterAPI\obj\Debug\HarryPotterAPI.pdb

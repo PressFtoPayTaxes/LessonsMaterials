@@ -1,0 +1,8 @@
+C:\Users\СкоропадИг.CORP\source\repos\XmlParsingLesson\XmlParsingLesson\bin\Debug\data.xml
+C:\Users\СкоропадИг.CORP\source\repos\XmlParsingLesson\XmlParsingLesson\bin\Debug\XmlParsingLesson.exe.config
+C:\Users\СкоропадИг.CORP\source\repos\XmlParsingLesson\XmlParsingLesson\bin\Debug\XmlParsingLesson.exe
+C:\Users\СкоропадИг.CORP\source\repos\XmlParsingLesson\XmlParsingLesson\bin\Debug\XmlParsingLesson.pdb
+C:\Users\СкоропадИг.CORP\source\repos\XmlParsingLesson\XmlParsingLesson\obj\Debug\XmlParsingLesson.csprojAssemblyReference.cache
+C:\Users\СкоропадИг.CORP\source\repos\XmlParsingLesson\XmlParsingLesson\obj\Debug\XmlParsingLesson.csproj.CoreCompileInputs.cache
+C:\Users\СкоропадИг.CORP\source\repos\XmlParsingLesson\XmlParsingLesson\obj\Debug\XmlParsingLesson.exe
+C:\Users\СкоропадИг.CORP\source\repos\XmlParsingLesson\XmlParsingLesson\obj\Debug\XmlParsingLesson.pdb
