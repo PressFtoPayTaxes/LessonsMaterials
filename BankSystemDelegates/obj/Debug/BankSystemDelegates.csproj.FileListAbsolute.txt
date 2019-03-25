@@ -1,0 +1,7 @@
+c:\users\скоропадиг.corp\source\repos\BankSystemDelegates\BankSystemDelegates\bin\Debug\BankSystemDelegates.exe.config
+c:\users\скоропадиг.corp\source\repos\BankSystemDelegates\BankSystemDelegates\bin\Debug\BankSystemDelegates.exe
+c:\users\скоропадиг.corp\source\repos\BankSystemDelegates\BankSystemDelegates\bin\Debug\BankSystemDelegates.pdb
+c:\users\скоропадиг.corp\source\repos\BankSystemDelegates\BankSystemDelegates\obj\Debug\BankSystemDelegates.csprojAssemblyReference.cache
+c:\users\скоропадиг.corp\source\repos\BankSystemDelegates\BankSystemDelegates\obj\Debug\BankSystemDelegates.csproj.CoreCompileInputs.cache
+c:\users\скоропадиг.corp\source\repos\BankSystemDelegates\BankSystemDelegates\obj\Debug\BankSystemDelegates.exe
+c:\users\скоропадиг.corp\source\repos\BankSystemDelegates\BankSystemDelegates\obj\Debug\BankSystemDelegates.pdb
