@@ -12,9 +12,12 @@ namespace BankSystemDelegates
         {
             var account = new BankAccount
             {
-                FullName = "Сапарбек Иванович Дзюба",
-                Reporter = new ConsoleReporter()
+                FullName = "Сапарбек Иванович Дзюба"
             };
+
+            var reporter = new ConsoleReporter();
+            var reporterDelegate = new ReporterDelegate(reporter.SendReport);
+            account.RegisterReporter(reporterDelegate);
 
             account.Add(1000);
             account.Withdraw(20000);
