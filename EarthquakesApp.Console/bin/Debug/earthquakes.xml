@@ -1,0 +1,411 @@
+<?xml version="1.0"?>
+<ArrayOfFeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FeatureCollection>
+    <Metadata>
+      <Title>USGS Earthquakes</Title>
+      <Count>50</Count>
+    </Metadata>
+    <Features>
+      <Feature>
+        <Properties>
+          <Mag>2.2</Mag>
+          <Place>76km S of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:47.107Z</Time>
+          <Title>M 2.2 - 76km S of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>3.1</Mag>
+          <Place>64km SSW of Kaktovik, Alaska</Place>
+          <Time>1970-01-18T23:34:46.996Z</Time>
+          <Title>M 3.1 - 64km SSW of Kaktovik, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.2</Mag>
+          <Place>94km WNW of Circle Hot Springs Station, Alaska</Place>
+          <Time>1970-01-18T23:34:46.411Z</Time>
+          <Title>M 1.2 - 94km WNW of Circle Hot Springs Station, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>2.56</Mag>
+          <Place>10km ESE of Black Point-Green Point, CA</Place>
+          <Time>1970-01-18T23:34:46.05Z</Time>
+          <Title>M 2.6 - 10km ESE of Black Point-Green Point, CA</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>2.7</Mag>
+          <Place>9km ESE of Black Point-Green Point, CA</Place>
+          <Time>1970-01-18T23:34:46.027Z</Time>
+          <Title>M 2.7 - 9km ESE of Black Point-Green Point, CA</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>4.3</Mag>
+          <Place>14km E of Acipayam, Turkey</Place>
+          <Time>1970-01-18T23:34:46.023Z</Time>
+          <Title>M 4.3 - 14km E of Acipayam, Turkey</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.5</Mag>
+          <Place>31km W of Kenai, Alaska</Place>
+          <Time>1970-01-18T23:34:44.661Z</Time>
+          <Title>M 1.5 - 31km W of Kenai, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>2.5</Mag>
+          <Place>6km ENE of Diamond Ridge, Alaska</Place>
+          <Time>1970-01-18T23:34:44.302Z</Time>
+          <Title>M 2.5 - 6km ENE of Diamond Ridge, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.5</Mag>
+          <Place>66km NW of Talkeetna, Alaska</Place>
+          <Time>1970-01-18T23:34:44.177Z</Time>
+          <Title>M 1.5 - 66km NW of Talkeetna, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>3.6</Mag>
+          <Place>65km S of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:44.168Z</Time>
+          <Title>M 3.6 - 65km S of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.9</Mag>
+          <Place>65km SSW of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:43.847Z</Time>
+          <Title>M 1.9 - 65km SSW of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.6</Mag>
+          <Place>73km SSW of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:43.723Z</Time>
+          <Title>M 1.6 - 73km SSW of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.2</Mag>
+          <Place>10km WNW of Calipatria, CA</Place>
+          <Time>1970-01-18T23:34:43.722Z</Time>
+          <Title>M 1.2 - 10km WNW of Calipatria, CA</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.7</Mag>
+          <Place>16km SSW of Big Lake, Alaska</Place>
+          <Time>1970-01-18T23:34:43.299Z</Time>
+          <Title>M 1.7 - 16km SSW of Big Lake, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>2.37</Mag>
+          <Place>7km NE of Ridgemark, CA</Place>
+          <Time>1970-01-18T23:34:43.071Z</Time>
+          <Title>M 2.4 - 7km NE of Ridgemark, CA</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.8</Mag>
+          <Place>75km SSW of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:42.367Z</Time>
+          <Title>M 1.8 - 75km SSW of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.92</Mag>
+          <Place>5km S of Pahala, Hawaii</Place>
+          <Time>1970-01-18T23:34:41.981Z</Time>
+          <Title>M 1.9 - 5km S of Pahala, Hawaii</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.02</Mag>
+          <Place>2km NE of Anza, CA</Place>
+          <Time>1970-01-18T23:34:41.85Z</Time>
+          <Title>M 1.0 - 2km NE of Anza, CA</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>2</Mag>
+          <Place>75km SSW of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:41.402Z</Time>
+          <Title>M 2.0 - 75km SSW of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>0.71</Mag>
+          <Place>9km SSW of Idyllwild, CA</Place>
+          <Time>1970-01-18T23:34:41.313Z</Time>
+          <Title>M 0.7 - 9km SSW of Idyllwild, CA</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>0.61</Mag>
+          <Place>9km ENE of Aguanga, CA</Place>
+          <Time>1970-01-18T23:34:41.076Z</Time>
+          <Title>M 0.6 - 9km ENE of Aguanga, CA</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.32</Mag>
+          <Place>6km WSW of Gilroy, CA</Place>
+          <Time>1970-01-18T23:34:41.038Z</Time>
+          <Title>M 1.3 - 6km WSW of Gilroy, CA</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.8</Mag>
+          <Place>80km SSW of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:40.994Z</Time>
+          <Title>M 1.8 - 80km SSW of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.33</Mag>
+          <Place>2km E of Loma Linda, CA</Place>
+          <Time>1970-01-18T23:34:40.056Z</Time>
+          <Title>M 1.3 - 2km E of Loma Linda, CA</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.6</Mag>
+          <Place>76km S of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:39.804Z</Time>
+          <Title>M 1.6 - 76km S of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.4</Mag>
+          <Place>0km ENE of Sterling, Alaska</Place>
+          <Time>1970-01-18T23:34:39.788Z</Time>
+          <Title>M 1.4 - 0km ENE of Sterling, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>0.41</Mag>
+          <Place>9km NE of Aguanga, CA</Place>
+          <Time>1970-01-18T23:34:39.58Z</Time>
+          <Title>M 0.4 - 9km NE of Aguanga, CA</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.5</Mag>
+          <Place>23km NW of Talkeetna, Alaska</Place>
+          <Time>1970-01-18T23:34:39.56Z</Time>
+          <Title>M 1.5 - 23km NW of Talkeetna, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>2.1</Mag>
+          <Place>92km NNW of Larsen Bay, Alaska</Place>
+          <Time>1970-01-18T23:34:38.377Z</Time>
+          <Title>M 2.1 - 92km NNW of Larsen Bay, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.5</Mag>
+          <Place>79km SSW of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:38.173Z</Time>
+          <Title>M 1.5 - 79km SSW of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>0.7</Mag>
+          <Place>39km ESE of Sutton-Alpine, Alaska</Place>
+          <Time>1970-01-18T23:34:38.038Z</Time>
+          <Title>M 0.7 - 39km ESE of Sutton-Alpine, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>2.1</Mag>
+          <Place>98km NNW of Larsen Bay, Alaska</Place>
+          <Time>1970-01-18T23:34:37.991Z</Time>
+          <Title>M 2.1 - 98km NNW of Larsen Bay, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.4</Mag>
+          <Place>70km S of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:37.726Z</Time>
+          <Title>M 1.4 - 70km S of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>2.3</Mag>
+          <Place>80km S of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:37.537Z</Time>
+          <Title>M 2.3 - 80km S of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.5</Mag>
+          <Place>72km SSW of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:37.418Z</Time>
+          <Title>M 1.5 - 72km SSW of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.8</Mag>
+          <Place>47km ESE of Dillingham, Alaska</Place>
+          <Time>1970-01-18T23:34:37.097Z</Time>
+          <Title>M 1.8 - 47km ESE of Dillingham, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>2.2</Mag>
+          <Place>70km SSW of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:36.865Z</Time>
+          <Title>M 2.2 - 70km SSW of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.3</Mag>
+          <Place>74km SSW of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:36.788Z</Time>
+          <Title>M 1.3 - 74km SSW of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.18</Mag>
+          <Place>10km E of Mammoth Lakes, CA</Place>
+          <Time>1970-01-18T23:34:36.1Z</Time>
+          <Title>M 1.2 - 10km E of Mammoth Lakes, CA</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.6</Mag>
+          <Place>62km SSW of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:35.869Z</Time>
+          <Title>M 1.6 - 62km SSW of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>0.86</Mag>
+          <Place>24km SW of Little Lake, CA</Place>
+          <Time>1970-01-18T23:34:35.528Z</Time>
+          <Title>M 0.9 - 24km SW of Little Lake, CA</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.4</Mag>
+          <Place>38km NE of Nikiski, Alaska</Place>
+          <Time>1970-01-18T23:34:35.218Z</Time>
+          <Title>M 1.4 - 38km NE of Nikiski, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.29</Mag>
+          <Place>15km ENE of Coachella, CA</Place>
+          <Time>1970-01-18T23:34:34.877Z</Time>
+          <Title>M 1.3 - 15km ENE of Coachella, CA</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.7</Mag>
+          <Place>81km SSW of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:34.828Z</Time>
+          <Title>M 1.7 - 81km SSW of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>4.1</Mag>
+          <Place>41km SE of Puerto Angel, Mexico</Place>
+          <Time>1970-01-18T23:34:34.571Z</Time>
+          <Title>M 4.1 - 41km SE of Puerto Angel, Mexico</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>2.6</Mag>
+          <Place>65km SSW of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:33.997Z</Time>
+          <Title>M 2.6 - 65km SSW of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>2.5</Mag>
+          <Place>51km WSW of Kahaluu-Keauhou, Hawaii</Place>
+          <Time>1970-01-18T23:34:33.864Z</Time>
+          <Title>M 2.5 - 51km WSW of Kahaluu-Keauhou, Hawaii</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.9</Mag>
+          <Place>73km SSW of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:33.664Z</Time>
+          <Title>M 1.9 - 73km SSW of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.8</Mag>
+          <Place>66km S of Kobuk, Alaska</Place>
+          <Time>1970-01-18T23:34:33.582Z</Time>
+          <Title>M 1.8 - 66km S of Kobuk, Alaska</Title>
+        </Properties>
+      </Feature>
+      <Feature>
+        <Properties>
+          <Mag>1.8</Mag>
+          <Place>96km NNW of Talkeetna, Alaska</Place>
+          <Time>1970-01-18T23:34:33.581Z</Time>
+          <Title>M 1.8 - 96km NNW of Talkeetna, Alaska</Title>
+        </Properties>
+      </Feature>
+    </Features>
+  </FeatureCollection>
+</ArrayOfFeatureCollection>

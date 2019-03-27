@@ -1,0 +1,6 @@
+C:\Users\СкоропадИг.CORP\source\repos\EarthquakesApp.Console\EarthquakesApp.Services.Abstract\bin\Debug\EarthquakesApp.Services.Abstract.dll
+C:\Users\СкоропадИг.CORP\source\repos\EarthquakesApp.Console\EarthquakesApp.Services.Abstract\bin\Debug\EarthquakesApp.Services.Abstract.pdb
+C:\Users\СкоропадИг.CORP\source\repos\EarthquakesApp.Console\EarthquakesApp.Services.Abstract\obj\Debug\EarthquakesApp.Services.Abstract.csprojAssemblyReference.cache
+C:\Users\СкоропадИг.CORP\source\repos\EarthquakesApp.Console\EarthquakesApp.Services.Abstract\obj\Debug\EarthquakesApp.Services.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\СкоропадИг.CORP\source\repos\EarthquakesApp.Console\EarthquakesApp.Services.Abstract\obj\Debug\EarthquakesApp.Services.Abstract.dll
+C:\Users\СкоропадИг.CORP\source\repos\EarthquakesApp.Console\EarthquakesApp.Services.Abstract\obj\Debug\EarthquakesApp.Services.Abstract.pdb

@@ -1,0 +1,10 @@
+C:\Users\СкоропадИг.CORP\source\repos\EarthquakesApp.Console\EarthquakesApp.Models\bin\Debug\EarthquakesApp.Models.dll
+C:\Users\СкоропадИг.CORP\source\repos\EarthquakesApp.Console\EarthquakesApp.Models\bin\Debug\EarthquakesApp.Models.pdb
+C:\Users\СкоропадИг.CORP\source\repos\EarthquakesApp.Console\EarthquakesApp.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\СкоропадИг.CORP\source\repos\EarthquakesApp.Console\EarthquakesApp.Models\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\СкоропадИг.CORP\source\repos\EarthquakesApp.Console\EarthquakesApp.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\СкоропадИг.CORP\source\repos\EarthquakesApp.Console\EarthquakesApp.Models\obj\Debug\EarthquakesApp.Models.csprojAssemblyReference.cache
+C:\Users\СкоропадИг.CORP\source\repos\EarthquakesApp.Console\EarthquakesApp.Models\obj\Debug\EarthquakesApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\СкоропадИг.CORP\source\repos\EarthquakesApp.Console\EarthquakesApp.Models\obj\Debug\EarthquakesApp.Models.csproj.CopyComplete
+C:\Users\СкоропадИг.CORP\source\repos\EarthquakesApp.Console\EarthquakesApp.Models\obj\Debug\EarthquakesApp.Models.dll
+C:\Users\СкоропадИг.CORP\source\repos\EarthquakesApp.Console\EarthquakesApp.Models\obj\Debug\EarthquakesApp.Models.pdb
