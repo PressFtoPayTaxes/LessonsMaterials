@@ -1,0 +1,14 @@
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelApp\ConnectedLevelApp\bin\Debug\Database.mdf
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelApp\ConnectedLevelApp\bin\Debug\Database_log.ldf
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelApp\ConnectedLevelApp\bin\Debug\ConnectedLevelApp.exe.config
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelApp\ConnectedLevelApp\bin\Debug\ConnectedLevelApp.exe
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelApp\ConnectedLevelApp\bin\Debug\ConnectedLevelApp.pdb
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelApp\ConnectedLevelApp\bin\Debug\ConnectedLevelApp.DataAccess.dll
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelApp\ConnectedLevelApp\bin\Debug\ConnectedLevelApp.Models.dll
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelApp\ConnectedLevelApp\bin\Debug\ConnectedLevelApp.DataAccess.pdb
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelApp\ConnectedLevelApp\bin\Debug\ConnectedLevelApp.Models.pdb
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelApp\ConnectedLevelApp\obj\Debug\ConnectedLevelApp.Console.csprojAssemblyReference.cache
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelApp\ConnectedLevelApp\obj\Debug\ConnectedLevelApp.Console.csproj.CoreCompileInputs.cache
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelApp\ConnectedLevelApp\obj\Debug\ConnectedLevelApp.Console.csproj.CopyComplete
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelApp\ConnectedLevelApp\obj\Debug\ConnectedLevelApp.exe
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelApp\ConnectedLevelApp\obj\Debug\ConnectedLevelApp.pdb
