@@ -1,0 +1,9 @@
+C:\Users\СкоропадИг.CORP\source\repos\AutoLevelPart2Lesson\AutoLevelPart2Lesson\bin\Debug\Database.mdf
+C:\Users\СкоропадИг.CORP\source\repos\AutoLevelPart2Lesson\AutoLevelPart2Lesson\bin\Debug\Database_log.ldf
+C:\Users\СкоропадИг.CORP\source\repos\AutoLevelPart2Lesson\AutoLevelPart2Lesson\bin\Debug\AutoLevelPart2Lesson.exe.config
+C:\Users\СкоропадИг.CORP\source\repos\AutoLevelPart2Lesson\AutoLevelPart2Lesson\bin\Debug\AutoLevelPart2Lesson.exe
+C:\Users\СкоропадИг.CORP\source\repos\AutoLevelPart2Lesson\AutoLevelPart2Lesson\bin\Debug\AutoLevelPart2Lesson.pdb
+C:\Users\СкоропадИг.CORP\source\repos\AutoLevelPart2Lesson\AutoLevelPart2Lesson\obj\Debug\AutoLevelPart2Lesson.csprojAssemblyReference.cache
+C:\Users\СкоропадИг.CORP\source\repos\AutoLevelPart2Lesson\AutoLevelPart2Lesson\obj\Debug\AutoLevelPart2Lesson.csproj.CoreCompileInputs.cache
+C:\Users\СкоропадИг.CORP\source\repos\AutoLevelPart2Lesson\AutoLevelPart2Lesson\obj\Debug\AutoLevelPart2Lesson.exe
+C:\Users\СкоропадИг.CORP\source\repos\AutoLevelPart2Lesson\AutoLevelPart2Lesson\obj\Debug\AutoLevelPart2Lesson.pdb
