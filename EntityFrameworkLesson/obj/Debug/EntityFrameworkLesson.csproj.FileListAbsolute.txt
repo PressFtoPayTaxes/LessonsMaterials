@@ -1,0 +1,14 @@
+c:\users\скоропадиг.corp\source\repos\EntityFrameworkLesson\EntityFrameworkLesson\bin\Debug\EFDatabase.mdf
+c:\users\скоропадиг.corp\source\repos\EntityFrameworkLesson\EntityFrameworkLesson\bin\Debug\EFDatabase_log.ldf
+c:\users\скоропадиг.corp\source\repos\EntityFrameworkLesson\EntityFrameworkLesson\bin\Debug\EntityFrameworkLesson.exe.config
+c:\users\скоропадиг.corp\source\repos\EntityFrameworkLesson\EntityFrameworkLesson\bin\Debug\EntityFrameworkLesson.exe
+c:\users\скоропадиг.corp\source\repos\EntityFrameworkLesson\EntityFrameworkLesson\bin\Debug\EntityFrameworkLesson.pdb
+c:\users\скоропадиг.corp\source\repos\EntityFrameworkLesson\EntityFrameworkLesson\bin\Debug\EntityFramework.dll
+c:\users\скоропадиг.corp\source\repos\EntityFrameworkLesson\EntityFrameworkLesson\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\скоропадиг.corp\source\repos\EntityFrameworkLesson\EntityFrameworkLesson\bin\Debug\EntityFramework.xml
+c:\users\скоропадиг.corp\source\repos\EntityFrameworkLesson\EntityFrameworkLesson\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\скоропадиг.corp\source\repos\EntityFrameworkLesson\EntityFrameworkLesson\obj\Debug\EntityFrameworkLesson.csprojAssemblyReference.cache
+c:\users\скоропадиг.corp\source\repos\EntityFrameworkLesson\EntityFrameworkLesson\obj\Debug\EntityFrameworkLesson.csproj.CoreCompileInputs.cache
+c:\users\скоропадиг.corp\source\repos\EntityFrameworkLesson\EntityFrameworkLesson\obj\Debug\EntityFrameworkLesson.csproj.CopyComplete
+c:\users\скоропадиг.corp\source\repos\EntityFrameworkLesson\EntityFrameworkLesson\obj\Debug\EntityFrameworkLesson.exe
+c:\users\скоропадиг.corp\source\repos\EntityFrameworkLesson\EntityFrameworkLesson\obj\Debug\EntityFrameworkLesson.pdb
